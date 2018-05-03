@@ -1,0 +1,12 @@
+{
+  "name": "local-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task-list": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
